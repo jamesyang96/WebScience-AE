@@ -9,6 +9,8 @@ This is the code of Web Science Assessed Exercise 2020
 
 4. .ipynb file contains the main code for the coursework.The notebook has all code run on the actuall crawled data.
 
+5. Originila data (tweets_all.json) is uploaded to Google Drive. Sharing link is https://drive.google.com/open?id=1CHG-RAnxuu3P3ooCUQGWc7pJBq8_zr21
+
 ## Environment Needed:
 1. TextBlob
 2. spacy

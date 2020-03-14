@@ -11,6 +11,10 @@ This is the code of Web Science Assessed Exercise 2020
 
 5. Originila data (tweets_all.json) is uploaded to Google Drive. Sharing link is https://drive.google.com/open?id=1CHG-RAnxuu3P3ooCUQGWc7pJBq8_zr21
 
+6. crowdsoursing result aggregated.csv contains the result returen by crowdsourcing. It can be used to evaluate the labeling accuracy.
+
+7. crowdsorsing_data.csv contains the data random selected 30 data from each categor and used for crowdsourcing.
+
 ## Environment Needed:
 1. TextBlob
 2. spacy
